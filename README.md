@@ -4,7 +4,7 @@ Designed for working with CornerPin2D nodes, particularly when using data from M
 # How it was
 ![CornerPin_Match_1](https://github.com/user-attachments/assets/179b799f-e9c0-4950-9e84-f4aac30deab3)
 
-# How to works
+# How it works
 ![CornerPin_Match_2](https://github.com/user-attachments/assets/43d60fcb-a451-48d0-aa1e-61d0fd2a47e1)
 
 
