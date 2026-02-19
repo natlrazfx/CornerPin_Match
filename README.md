@@ -17,5 +17,4 @@ You can run the script through the Script Editor, bind it to a hotkey, or (recom
 And if you feel like supporting it:  
 ☕ 1–2 coffees are more than enough ☺️**  
 
-[Click to Buy me a Coffee](buymeacoffee.com/natlrazfx)
-[Subscribe me on Substack](https://substack.com/@natalia289425)
+[Click to Buy me a Coffee](https://buymeacoffee.com/natlrazfx)
